@@ -1,6 +1,9 @@
 # SVI-Equity-Analysis-
 An automated Power BI report and tool to track equity on the tract level and measure the program impact in the City of Portland. The Report highlights all the areas with their SVI scores and the program participation in that area. The Clean River Rewards is a discount program from the City of Portland to promote equity in utility bills.
 
+**Reference: City of Portland – Equity Data Toolkit**
+https://www.portland.gov/water/equity#toc-the-equity-data-toolkit
+
 **Confidentiality Notice**
 This project was completed using sensitive organizational data. All descriptions in this repository are intentionally high-level. No proprietary data, internal files, or screenshots are included.
 
