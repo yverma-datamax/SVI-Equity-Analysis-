@@ -65,9 +65,13 @@ Analytical Design (equity-focused metric framing and prioritization logic)
 A key strength of the dashboard is its ability to identify drivers of vulnerability, not just vulnerability scores. This directly informs how outreach is conducted within the Clean River Rewards program.
 
 Examples of how insights are used:
-  When socioeconomic factors drive vulnerability, outreach teams can prioritize financial     assistance, guidance, and documentation support
-  When language barriers are a contributing factor, messaging can be adapted and delivered in appropriate languages
-  When housing or access-related factors dominate, outreach can focus on eligibility clarification and program education
+
+  When socioeconomic factors drive vulnerability, outreach teams can prioritize financial     assistance, guidance, and documentation support.
+  
+  When language barriers are a contributing factor, messaging can be adapted and delivered in appropriate languages.
+  
+  When housing or access-related factors dominate, outreach can focus on eligibility clarification and program education.
+  
   This approach enables the city to move from generalized outreach to targeted, barrier-specific engagement, improving equity and program effectiveness.
 
 **Outcomes & Impact**
